@@ -12,11 +12,14 @@ There is a correlation between popular starting and ending locations.
 Younger individuals tend to take longer rides.
 
 ![age/duration](images/durationbyage.png)
+
 Male subscribers comprise the majority of users.
 
 ![genderbreakdown](images/gender.png)
 ![userbreakdown](images/users.png)
+
 ![usertypes usage](images/usertype.png)
+
 Most rides are under 1 hour in duration.
 
 ![trip duration by gender](images/tripduration.png)
