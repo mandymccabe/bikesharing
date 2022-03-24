@@ -2,7 +2,7 @@
 ## Overview
 This Tableau analysis looks as CitiBike data taken from the month of August in New York City and will be used to support the proposal of bringing bike sharing to Des Moines.  
 
-[Dashboard Link](https://public.tableau.com/app/profile/amanda.mccabe/viz/citiBike_16480854796860/TopStartingLocations?publish=yes)
+[Dashboard Link](https://public.tableau.com/app/profile/amanda.mccabe/viz/citiBike_16480854796860/NYCCitiBike)
 ## Results
 There is a correlation between popular starting and ending locations.
 
@@ -12,14 +12,11 @@ There is a correlation between popular starting and ending locations.
 Younger individuals tend to take longer rides.
 
 ![age/duration](images/durationbyage.png)
-
 Male subscribers comprise the majority of users.
 
 ![genderbreakdown](images/gender.png)
 ![userbreakdown](images/users.png)
-
 ![usertypes usage](images/usertype.png)
-
 Most rides are under 1 hour in duration.
 
 ![trip duration by gender](images/tripduration.png)
